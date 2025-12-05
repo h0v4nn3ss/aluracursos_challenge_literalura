@@ -1,0 +1,16 @@
+# Compilados
+target/
+*.class
+
+# IDEs
+.idea/
+*.iml
+
+# Logs y temporales
+*.log
+.DS_Store
+
+# Gradle/Maven
+.gradle/
+build/
+
